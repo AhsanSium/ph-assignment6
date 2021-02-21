@@ -1,3 +1,5 @@
+//5 ISSUES FIXED AND 2 ADDED FEATURES ON 64 AND 71 NO LINE..........
+
 const imagesArea = document.querySelector('.images');
 const gallery = document.querySelector('.gallery');
 const galleryHeader = document.querySelector('.gallery-header');
